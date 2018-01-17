@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>IMAGES/Background.jpg</file>
+        <file>IMAGES/Home.png</file>
+        <file>IMAGES/Media.png</file>
+        <file>IMAGES/Navi..png</file>
+        <file>IMAGES/phone.png</file>
+        <file>IMAGES/Radio.png</file>
+        <file>IMAGES/Settings...png</file>
+        <file>Background.qml</file>
+        <file>HomeButton.qml</file>
+        <file>Radio.qml</file>
+        <file>Media.qml</file>
+        <file>Phone.qml</file>
+        <file>Navi.qml</file>
+        <file>Settings.qml</file>
+        <file>Stations.qml</file>
+        <file>Keypad.qml</file>
+        <file>MainScreen.qml</file>
+        <file>IMAGES/RadioTower.png</file>
+        <file>IMAGES/Forward right.jpg</file>
+        <file>IMAGES/Forward Rt.jpg</file>
+        <file>IMAGES/Forword left.ico</file>
+        <file>IMAGES/Music Main.png</file>
+        <file>IMAGES/Play-Stop-Pause-Step-Forward.ico</file>
+        <file>IMAGES/Stop1Pressed.png</file>
+        <file>IMAGES/Navi.jpg</file>
+        <file>RadioSettings.qml</file>
+        <file>MediaSettings.qml</file>
+        <file>Contacts.qml</file>
+        <file>../Imagine Dragons - Believer.mp3</file>
+    </qresource>
+</RCC>
