@@ -1,0 +1,10 @@
+package com.uhc.myuhc.api;
+
+import org.apache.poi.ss.usermodel.Workbook;
+
+public interface AssetCheckService {
+	
+	
+
+	public Workbook checkAssets() throws Exception;
+}
